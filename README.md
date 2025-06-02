@@ -1,2 +1,2 @@
-# Mitologi
-Kisah Mitologi
+# Pengajaran
+Kisah Bujangga Manik
